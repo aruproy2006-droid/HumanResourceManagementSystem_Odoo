@@ -112,7 +112,6 @@ HRMS/
 | `schemas.py`       | Request and response schemas       |
 | `seed.py`          | Initial database seeding           |
 | `requirements.txt` | Python dependencies                |
-| `hrms.db`          | SQLite database                    |
 
 ## Frontend
 
