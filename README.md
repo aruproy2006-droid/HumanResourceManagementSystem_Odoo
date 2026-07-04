@@ -59,7 +59,6 @@ HRMS/
 ├── backend/
 │   ├── auth.py
 │   ├── database.py
-│   ├── hrms.db
 │   ├── main.py
 │   ├── models.py
 │   ├── requirements.txt
@@ -67,10 +66,10 @@ HRMS/
 │   └── seed.py
 │
 └── frontend/
-    ├── index.html
-    ├── style.css
     ├── api.js
-    └── app.js
+    ├── app.js
+    ├── index.html
+    └── style.css
 ```
 
 ---
